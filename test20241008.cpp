@@ -13,6 +13,8 @@ void countDown(int num) {
 		std::cout << i << ' ';
 	}
 	std::cout << "Mery Christmas!";
+	std::cout << "Mery さん!";
+
 }
 
 int main()
